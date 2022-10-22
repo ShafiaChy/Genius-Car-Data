@@ -2,42 +2,42 @@
     "services":[
         {
             "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-            "category_id":"01",
+            "service_id":"01",
             "title":"Full Car Repair",
             "img":"",
             "price":"200.00"    
         },
         {
             "_id": "0382e0e58a5c404fbd15261f11c2ab7b",
-            "category_id":"02",
+            "service_id":"02",
             "title":"Engine Repair",
             "img":"",
             "price":"150.00"    
         },
         {
             "_id": "0482e0e58a5c404fbd15261f11c2ab8c",
-            "category_id":"03",
+            "service_id":"03",
             "title":"Automatic Services",
             "img":"",
             "price":"30.00"    
         },
         {
             "_id": "0582e0e58a5c404fbd15261f11c2ab9d",
-            "category_id":"04",
+            "service_id":"04",
             "title":"Engine Oil Change",
             "img":"",
             "price":"20.00"    
         },
         {
             "_id": "0682e0e58a5c404fbd15261f11c2ab5e",
-            "category_id":"05",
+            "service_id":"05",
             "title":"Battery Charge",
             "img":"",
             "price":"20.00"    
         },
         {
             "_id": "0782e0e58a5c404fbd15261f11c2ab1f",
-            "category_id":"06",
+            "service_id":"06",
             "title":"Electrical System",
             "img":"",
             "price":"20.00"    
