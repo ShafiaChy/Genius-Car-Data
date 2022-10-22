@@ -19,6 +19,10 @@
       {
         "category_id": "05",
         "category_name": "Battery Charge"
+      },
+      {
+        "category_id": "06",
+        "category_name": "Electrical System"
       }
     ]
   }
