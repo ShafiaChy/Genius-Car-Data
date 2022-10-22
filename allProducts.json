@@ -9,7 +9,7 @@
         },
         {
             
-            "category_id":"11",
+            "product_id":"11",
             "title":"Car Air Filter",
             "img":"",
             "price":"150.00",
@@ -17,7 +17,7 @@
         },
         {
           
-            "category_id":"12",
+            "product_id":"12",
             "title":"Cools LED Light",
             "img":"",
             "price":"30.00",
@@ -25,7 +25,7 @@
         },
         {
            
-            "category_id":"13",
+            "product_id":"13",
             "title":"Cools Gear",
             "img":"",
             "price":"20.00",
@@ -33,7 +33,7 @@
         },
         {
            
-            "category_id":"14",
+            "product_id":"14",
             "title":"Cools Tyre",
             "img":"",
             "price":"20.00",
@@ -41,7 +41,7 @@
         },
         {
             
-            "category_id":"15",
+            "product_id":"15",
             "title":"Cools Battery",
             "img":"",
             "price":"20.00",

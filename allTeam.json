@@ -1,0 +1,35 @@
+{
+    "products":[
+        {
+            "team_id":"20",
+            "name":"Peter Stevens",
+            "img":"",
+            "faceook":"https://www.facebook.com",
+            "twitter":"https://twitter.com",
+            "linkedin":"https://www.linkedin.com/", 
+            "instagram":"https://www.instagram.com"  
+        },
+        {
+            
+            "team_id":"21",
+            "name":"Guy Rios",
+            "img":"",
+            "faceook":"https://www.facebook.com",
+            "twitter":"https://twitter.com",
+            "linkedin":"https://www.linkedin.com/", 
+            "instagram":"https://www.instagram.com"
+                
+        },
+        {
+          
+            "team_id":"22",
+            "name":"Tommie Frazier",
+            "img":"",
+            "faceook":"https://www.facebook.com",
+            "twitter":"https://twitter.com",
+            "linkedin":"https://www.linkedin.com/", 
+            "instagram":"https://www.instagram.com"    
+        }
+        
+    ]
+}
